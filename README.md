@@ -11,8 +11,11 @@ Hyperparameter Tuning은 **src/args.py**를 참고합니다.
 <br>
 
 ## Environment
-`Python 3.8.5`  
-`PyTorch 1.10.2`
+```
+Python 3.8.5
+PyTorch 1.10.2
+...
+```
 
 
 <br>
